@@ -1,1 +1,3 @@
-title = document.getElementById("main_title");
+function saludo(){
+    alert("Hola como estas el dia de hoy");
+}
